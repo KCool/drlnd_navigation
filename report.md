@@ -11,6 +11,6 @@ Learning rate: Choosing an aggressive learning rate (0.96) was the most relevant
 
 ### Improvements
 Further improvements could be:
- - Try other DQN approaches (Double DQN, Dueling Networks, Rainbow)
- - Try learning from Pixels (DQN or some Policy Gradient Method)
+ - Try other DQN approaches (Double DQN, Dueling Networks, Rainbow) or some Policy Gradient Method
+ - Try learning from Pixels 
  - Do a more systematic hyperparameter tuning (loss fct and optimizer included)
