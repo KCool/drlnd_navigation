@@ -41,9 +41,6 @@ The task is episodic, and in order to solve the environment, our agent must get 
 
 ### Instructions
 
-Follow the instructions in `Navigation_Konrad.ipynb` to get started with training your own agent!  
+Follow the instructions in `Navigation_solution.ipynb` to train your own agent!
 
-
-Then, place the file in the `p1_navigation/` folder in the DRLND GitHub repository, and unzip (or decompress) the file.  Next, open `Navigation_Pixels.ipynb` and follow the instructions to learn how to use the Python API to control the agent.
-
-(_For AWS_) If you'd like to train the agent on AWS, you must follow the instructions to [set up X Server](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md), and then download the environment for the **Linux** operating system above.
+You can also use a pretrained agent (= pytorch model) which successfully solved the environment (in ~1.000 steps, that's not really good...).
