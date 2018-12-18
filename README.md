@@ -27,7 +27,7 @@ The task is episodic, and in order to solve the environment, our agent must get 
 
 2. Follow the steps in [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md) to install the Unity ML-Agents Toolkit.
 
-3. Clone this repository via `git clone ...`
+3. Clone this repository via `git clone https://github.com/KCool/drlnd_navigation.git`
 
 4. Download the Banana Navigation environment from one of the links below.  Select the environment which matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -44,4 +44,4 @@ If you are still having issues after following this steps regarding the dependen
 
 Follow the instructions in `Navigation_Solution.ipynb` to train your own agent!
 
-You can also use the pretrained agent (= pytorch model) which successfully solved the environment (in ~177 steps):
+You can also use the pretrained agent `checkpoint_dqn_success.pth` (= pytorch model) which successfully solved the environment (in ~177 steps).
