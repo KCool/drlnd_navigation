@@ -45,3 +45,6 @@ If you are still having issues after following this steps regarding the dependen
 Follow the instructions in `Navigation_Solution.ipynb` to train your own agent!
 
 You can also use the pretrained agent `checkpoint_dqn_success.pth` (= pytorch model) which successfully solved the environment (in ~177 steps).
+
+### Notes
+We make extensive use of code that was provided within previous exercises of the Udacity Deep RL Nanodegree (especially the plan DQN implementation).
