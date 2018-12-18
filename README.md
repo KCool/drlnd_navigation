@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Train a DQN Agent to navigate in a 3D environment and collect good bananas!
+Train your own DQN agent to navigate in a 3D environment and collect good bananas!
 
 ### How it works
 
