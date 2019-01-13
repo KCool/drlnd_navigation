@@ -27,7 +27,7 @@ The task is episodic, and in order to solve the environment, our agent must get 
 
 2. Follow the steps in [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md) to install the Unity ML-Agents Toolkit.
 
-3. Clone this repository via `git clone https://github.com/KCool/drlnd_navigation.git`
+3. Clone this repository via `git clone https://github.com/kheimpel/drlnd_navigation.git`
 
 4. Download the Banana Navigation environment from one of the links below.  Select the environment which matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
